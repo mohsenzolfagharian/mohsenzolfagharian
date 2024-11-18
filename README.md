@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **aReal assistance**
 
-- 💬 Ask me about **Django, Django rest framework, FastAPI,**
+- 💬 Ask me about **Django, Django rest framework, FastAPI**
 
 - 📫 How to reach me **dev.mohsen.zolfagharian.98@gmail.com**
 
